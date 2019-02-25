@@ -15,7 +15,7 @@ Prison is a Minecraft plugin that adds all the features necessary for [prison se
 
 ### History of Prison
 
-Prison began as a plugin with the goal of combining two main prison server features: resetting mines and purchasable ranks. In June 2014, Prison v2.0 was released with the goal of providing a single solution for prison servers. Prison v2.0 has had numerous problems and is not the solution that we had envisioned for an all-in-one package to be. The solution is the current version - Prison v3.0.
+Prison began as a plugin with the goal of combining two main prison server features: resetting mines and purchasable ranks. In June 2014, Prison v2.0 was released with the goal of providing a single solution for prison servers. Prison v2.0 has had numerous problems and is not the solution that we had envisioned for an all-in-one package to be. The solution is the current version - Prison v3.0. Since then the project has been disbanded. This is a community run continuation of the original project. Currently only 1 person is working on this, if you would like to help just make a pull request and I might implement.  
 
 ## Why should I use Prison?
 

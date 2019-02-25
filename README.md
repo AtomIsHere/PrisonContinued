@@ -30,6 +30,6 @@ If hassle-free updates and zero payments is not enough for you to consider switc
 ## Get Prison
 | Stable | Experimental (Nightly) |
 | ------ | ---------------------- |
-| [![Stable Download](https://img.shields.io/badge/download-stable-44cc11.svg)](https://github.com/MC-Prison/Prison/releases/latest) | [![Experimental Download](https://img.shields.io/badge/download-experimental-red.svg)](https://ci.appveyor.com/project/faizaand/prison/build/artifacts) | 
+| [![Stable Download](https://img.shields.io/badge/download-stable-44cc11.svg)](https://github.com/AtomIsHere/PrisonContinued/releases) | [![Experimental Download](https://img.shields.io/badge/download-experimental-red.svg)](https://ci.appveyor.com/project/faizaand/prison/build/artifacts) | 
 
 

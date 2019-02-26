@@ -2,11 +2,11 @@
 ![Prison Banner](https://faizaand.github.io/prison/img/prison-banner.png)
 
 [![License](https://img.shields.io/badge/license-GPL%20License%20v3-blue.svg)](LICENSE.md)
+[![Build Status](https://travis-ci.org/MC-Prison/Prison.svg?branch=master)](https://travis-ci.org/MC-Prison/Prison)
 [![Discord](https://discordapp.com/api/guilds/332602419483770890/widget.png)](https://discord.gg/396ed5F)
 
 1. [What is Prison?](#what-is-prison)
 2. [Why should I use Prison?](#why-should-i-use-prison)
-3. [What's the status on Prison v3.0?](#whats-the-status-on-prison-v30)
 
 ## What is Prison?
 

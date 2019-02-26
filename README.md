@@ -2,7 +2,7 @@
 ![Prison Banner](https://faizaand.github.io/prison/img/prison-banner.png)
 
 [![License](https://img.shields.io/badge/license-GPL%20License%20v3-blue.svg)](LICENSE.md)
-[![Build Status](https://travis-ci.org/MC-Prison/Prison.svg?branch=master)](https://travis-ci.org/MC-Prison/Prison)
+[![Build Status](https://travis-ci.org/MC-Prison/Prison.svg?branch=master)](https://travis-ci.com/AtomIsHere/PrisonContinued.svg?branch=master)
 [![Discord](https://discordapp.com/api/guilds/332602419483770890/widget.png)](https://discord.gg/396ed5F)
 
 1. [What is Prison?](#what-is-prison)

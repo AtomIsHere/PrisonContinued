@@ -18,6 +18,7 @@
 
 package tech.mcprison.prison.spigot;
 
+import com.github.atomishere.prisoncontinued.prisonenchantments.PrisonEnchantments;
 import org.bstats.bukkit.Metrics;
 import org.bukkit.Bukkit;
 import org.bukkit.command.SimpleCommandMap;
@@ -249,6 +250,13 @@ public class SpigotPrison extends JavaPlugin {
                     .registerModule(new PrisonRanks(getDescription().getVersion()));
         } else {
             Output.get().logInfo("Not loading ranks because it's disabled in modules.yml");
+        }
+
+        if (modulesConf.getBoolean("enchantments") && modulesConf.getBoolean("ranks") && modulesConf.getBoolean("mines")) {
+            Prison.get().getModuleManager()
+                    .registerModule(new PrisonEnchantments(getDescription().getVersion()));
+        } else {
+            Output.get().logInfo("Not loading enchantments because it or it's dependencies (ranks & mines) are disabled.");
         }
     }
 

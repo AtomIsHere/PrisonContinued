@@ -23,4 +23,5 @@ include 'prison-sponge'
 include 'prison-mines'
 include 'prison-mines-legacy'
 include 'prison-ranks'
+include 'prison-enchantments'
 

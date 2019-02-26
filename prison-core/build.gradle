@@ -19,6 +19,11 @@
 apply plugin: 'eclipse'
 apply plugin: 'idea'
 
+//Pretty messy way, genrates errors but it still works I guess.
+task myJavadocs(type: Javadoc) {
+    source = sourceSets.main.allJava
+}
+
 processResources {
     from(sourceSets.main.resources.srcDirs) {
         include 'items.csv'

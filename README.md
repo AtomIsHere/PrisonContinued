@@ -8,6 +8,8 @@
 2. [Why should I use Prison?](#why-should-i-use-prison)
 3. [What's the status on Prison v3.0?](#whats-the-status-on-prison-v30)
 
+#### THIS IS A DEVELOPMENT BRANCH! THIS IS WHERE ALL MY UNIFISHED WORK GOES (SO IT MAY BE REALLY UNSTABLE AND MAY NOT EVEN BUILD)
+
 ## What is Prison?
 
 Prison is a Minecraft plugin that adds all the features necessary for [prison servers](https://woodycraft.net/threads/what-is-a-prison-server-a-general-explanation.21161/). It runs on multiple platforms, including the popular [Spigot](http://spigotmc.org) and the rapidly growing [Sponge](http://spongepowered.org). Plugins for prison servers exist already, but many of them are poorly maintained, and the solid ones are paid resources. Prison eliminates the paywall and the updating hassle, and puts a one-stop solution in their place.

@@ -6,7 +6,6 @@
 
 1. [What is Prison?](#what-is-prison)
 2. [Why should I use Prison?](#why-should-i-use-prison)
-3. [What's the status on Prison v3.0?](#whats-the-status-on-prison-v30)
 
 #### THIS IS A DEVELOPMENT BRANCH! THIS IS WHERE ALL MY UNIFISHED WORK GOES (SO IT MAY BE REALLY UNSTABLE AND MAY NOT EVEN BUILD)
 
